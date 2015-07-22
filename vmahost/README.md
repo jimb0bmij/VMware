@@ -1,2 +1,2 @@
 # VMware
-Script to setup host using SHA.
+This is a script to added host with the sha thumbprint.
