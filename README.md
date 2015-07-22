@@ -1,2 +1,2 @@
 # VMware
-This is a script for the VMA.
+These are scripts for the VMA.
