@@ -1,2 +1,2 @@
 # VMware
-This is a script to added host with the sha thumbprint.
+This is a script for the VMA.
