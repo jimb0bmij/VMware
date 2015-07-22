@@ -1,2 +1,2 @@
 # VMware
-Scripts using the VMA applaince.
+Script to setup host using SHA.
