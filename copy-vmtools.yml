@@ -1,6 +1,6 @@
 ---
 
-- hosts: vms
+- hosts: all
   tasks:
   - name: Copy file vmtools
     copy: src=/home/user/VMwareTools-9.0.11-1743336.tar.gz dest=/home/user/VMwareTools-9.0.11-1743336.tar.gz mode=0444
